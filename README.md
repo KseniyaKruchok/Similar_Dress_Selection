@@ -1,6 +1,6 @@
 # Similar_Dress_Selection
 
-This project intends to develop a tool to select similar looking dresses. I am working with Deep Fashion dataset http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html to train custom convolutional neural network model and use its output in unsupervised Nearest Neighbor model. I am also using two other unlabeled dataset for testing. The image data is too heavy to be upladed here. It can be either found at above link or I can provide it upon request. Please feel free to reach me at Kseniya.Kruchok@gmail.com
+This project intends to develop a tool to select similar looking dresses. I am working with [Deep Fashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) dataset to train custom convolutional neural network model and use its output in unsupervised Nearest Neighbor model. I am also using two other unlabeled dataset for testing. The image data is too heavy to be upladed here. It can be either found at above link or I can provide it upon request. Please feel free to reach me at Kseniya.Kruchok@gmail.com
 
 STRUCTURE:
 
